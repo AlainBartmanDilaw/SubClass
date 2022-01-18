@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SubClass
+﻿namespace SubClass
 {
     public class SubClass
     {
